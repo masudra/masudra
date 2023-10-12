@@ -28,13 +28,10 @@ I am comfortable with HTML CSS javascript and react.js.I completed some projects
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masudra&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=masudra)  
-
 ![GitHub metrics](https://metrics.lecoq.io/masudra)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=masudra)  
 
-![Profile views](https://gpvc.arturio.dev/masudra)  
 
 
 
