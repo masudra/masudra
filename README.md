@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Masud Rana
-#### I am a  junior front end developer
-![I am a  junior front end developer](https://i.ibb.co/FVNxwys/Black-Geometric-Marketing-Expert-Linked-In-Banner-3.png)
+#### I am a  junior front-end developer
+![I am a  junior front-end developer](https://i.ibb.co/FVNxwys/Black-Geometric-Marketing-Expert-Linked-In-Banner-3.png)
 
 Hi, I am Masud Rana. I am a junior Full Stack developer. recently I completed a web development course with Programming Hero. I am a hard worker person. every day I do 7 to 8 hours of practice and 2 hours of learning new items for the next level
 
@@ -8,18 +8,14 @@ I am comfortable with HTML CSS javascript and react.js.I completed some projects
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 👨‍💻 All of my projects are available at [https://masud-rana-portfolio-07.netlify.app/](https://masud-rana-portfolio-07.netlify.app/)
-
-- 📫 How to reach me **masudrana6278312@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1-G42qZU_ZMgQ7_lr221ADruAMa_olpuageP-g5iZ92I/edit?usp=sharing](https://docs.google.com/document/d/1-G42qZU_ZMgQ7_lr221ADruAMa_olpuageP-g5iZ92I/edit?usp=sharing)
-
-
 
 - 🔭 I’m currently working on my own project 
 - 🌱 I’m currently learning Redux 
 - 💬 Ask me about web development  
-- 📫 How to reach me: email:  masudrana6278312@gmail.com 
+- 📫 How to reach me: email:  masudrana6278312@gmail.com
+  - 👨‍💻 All of my projects are available at [https://masud-rana-portfolio-07.netlify.app/](https://masud-rana-portfolio-07.netlify.app/)
+
+ - 📄 Know about my experiences [https://docs.google.com/document/d/1-G42qZU_ZMgQ7_lr221ADruAMa_olpuageP-g5iZ92I/edit?usp=sharing](https://docs.google.com/document/d/1-G42qZU_ZMgQ7_lr221ADruAMa_olpuageP-g5iZ92I/edit?usp=sharing)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/masudra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-masud-rana00/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/masudrana0707)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://masud-rana-portfolio-07.netlify.app/)  
