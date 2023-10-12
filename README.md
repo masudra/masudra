@@ -1,3 +1,55 @@
+### Hi there 👋, my name is Masud Rana
+#### I am a  junior front end developer
+![I am a  junior front end developer](https://i.ibb.co/FVNxwys/Black-Geometric-Marketing-Expert-Linked-In-Banner-3.png)
+
+Hi, I am Masud Rana. I am a junior Full Stack developer. recently I completed a web development course with Programming Hero. I am a hard worker person. every day I do 7 to 8 hours of practice and 2 hours of learning new items for the next level
+
+I am comfortable with HTML CSS javascript and react.js.I completed some projects using HTML, CSS, Tailwind, Bootstrap, JavaScript, and React.Js.I am very skilled and good at mobile responsiveness.
+
+- 🔭 I’m currently working on my own project 
+- 🌱 I’m currently learning Redux 
+- 💬 Ask me about web development  
+- 📫 How to reach me: email:  masudrana6278312@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/masudra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-masud-rana00/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/masudrana0707)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://masud-rana-portfolio-07.netlify.app/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=masudra)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masudra)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=masudra&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=masudra)  
+
+![GitHub metrics](https://metrics.lecoq.io/masudra)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=masudra)  
+
+![Profile views](https://gpvc.arturio.dev/masudra)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h1 align="center">Hi 👋, I'm Masud Rana</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
