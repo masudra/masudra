@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Masud Rana
 #### I am a  junior front-end developer
-![I am a  junior front-end developer](https://i.ibb.co/PzmNh3S/masud-rana-removebg-preview-1-removebg-preview.png)
+![I am a  junior front-end developer](https://i.ibb.co/FVNxwys/Black-Geometric-Marketing-Expert-Linked-In-Banner-3.png)
 
 Hi, I am Masud Rana. I am a junior Full Stack developer. recently I completed a web development course with Programming Hero. I am a hard worker person. every day I do 7 to 8 hours of practice and 2 hours of learning new items for the next level
 
