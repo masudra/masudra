@@ -1,12 +1,12 @@
 # Hi there 👋, my name is Masud Rana
 ## I am a  MERN Stack Developer
-![I am a  junior front-end developer](https://i.ibb.co/XXWmjsn/Jr-mean-stack-developer.jpg)
+![I am a  MERN Stack Developer](https://i.ibb.co/XXWmjsn/Jr-mean-stack-developer.jpg)
 
-Hi, I am Masud Rana. I am a junior Full Stack developer. recently I completed a web development course with Programming Hero. I am a hard-working person. every day I do 7 to 8 hours of practice and 2 hours of learning new items for the next level
+Hi, I am Masud Rana. I am a MERN Stack Developer. recently I completed a web development course with Programming Hero. I am a hard-working person. every day I do 7 to 8 hours of practice and 2 hours of learning new items for the next level
 
 I am comfortable with HTML CSS javascript and react.js.I completed some projects using HTML, CSS, Tailwind, Bootstrap, JavaScript, and React.Js.I am very skilled and good at mobile responsiveness.
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
 
 - 🔭 I’m currently working on my own project 
